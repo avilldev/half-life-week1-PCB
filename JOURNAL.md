@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 18h | 4 |
+| Week 1 | Tier 1 | 16h | 4 |
 
 ## Contents
 
@@ -119,7 +119,7 @@ The one thing I could not test out was the DHT sensor, since the website does no
 
 ### 2026-10-11 – # Last Session of Week 1!!
 
-**7h**
+**5h**
 
 # Last Session of Week 1!!
 I did so much today to finalize the project, but it's done!! 🥳
