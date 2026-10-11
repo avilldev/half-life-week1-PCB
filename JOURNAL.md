@@ -10,7 +10,7 @@
 
 | Week | Tier | Hours logged | Entries |
 | --- | --- | --- | --- |
-| Week 1 | Tier 1 | 16h | 4 |
+| Week 1 | Tier 1 | 14h | 4 |
 
 ## Contents
 
@@ -87,7 +87,7 @@ I also learnt that I can look at a 3D preview, which I find that it's super cool
 
 ### 2026-10-10 – # Started to Code!!
 
-**5h**
+**3h**
 
 # Started to Code!!
 I got to the point in the project in which I know more of, to actual program the device! I also realized hhat I haven't been posting reels, so I caught up on it as well.
