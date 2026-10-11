@@ -19,7 +19,7 @@
 | [Seeed XIAO ESP32-C3](https://www.alibaba.com/product-detail/Seeed-Studio-XIAO-ESP32C6-ESP32S3-ESP32S3_1601286855889.html?spm=a2700.prosearch.normal_offer.d_image.4cab67af7E0ApD&priceId=027e427a3ce74c9d8ac60624764c62b1) | Micro-Controller | 1 | $5.84 | $5.84 | [Alibaba](https://www.alibaba.com/product-detail/Seeed-Studio-XIAO-ESP32C6-ESP32S3-ESP32S3_1601286855889.html?spm=a2700.prosearch.normal_offer.d_image.4cab67af7E0ApD&priceId=027e427a3ce74c9d8ac60624764c62b1) |
 | [PCB](https://cart.jlcpcb.com/quote?rand=0.4319600932958766) | Board | 1 | $8.40 | $8.40 | [JLCPCB](https://cart.jlcpcb.com/quote?rand=0.4319600932958766) |
 | **Parts subtotal** | — | — | — | **$17.35** | — |
-| **Tax & shipping** | — | — | — | **$9.44** | — |
-| **Total** | — | — | — | **$26.79** | — |
+| **Tax & shipping** | — | — | — | **$10.00** | — |
+| **Total** | — | — | — | **$27.35** | — |
 
-$3.21 left of the tier's funding.
+$2.65 left of the tier's funding.
