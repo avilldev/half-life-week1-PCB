@@ -1,4 +1,4 @@
-![3D Render of Astrobie](3D_Render.png)
+![3D Render of Astrobie](3D_render_Astrobie.png)
 
 - **Seeed Studio XIAO-ESP32-C3:** https://grabcad.com/library/seeed-studio-xiao-esp32-c3-1
 - **Display, OLED 0.96" 128x64 i2c:** https://grabcad.com/library/display-oled-0-96-128x64-i2c-1
