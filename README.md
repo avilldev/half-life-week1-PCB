@@ -1,5 +1,5 @@
 # Astrobie: A close encounter in your pocket
-<img width="1090" height="605" alt="image" src="https://github.com/user-attachments/assets/8bff7433-d5de-432f-8aec-69ed2396901e" />
+<img width="1107" height="591" alt="image" src="https://github.com/user-attachments/assets/92e583c3-61ee-4a26-b361-74ed3de60a20" />
 
 ## What it is
 Astrobie is a custom-designed PCB digital pet powered by a Seeed XIAO ESP32-C3. This project was made for the first-week PCB submission for Hackclub's [Half Life](https://halflife.hackclub.com/?ref=1941)
